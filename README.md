@@ -40,13 +40,13 @@
 
 ## Table of Contents
 
-- [Introduction](#introduction)
-- [Soft Skills](#softSkills)
+- [Intro](#introduction)
+- [ Skills](#softSkills)
 - [Method of Evaluation](#methodOfEvaluationOfSoftSkills)
 
 # Introduction
 
-Puzzle Application is a simple Soft Skill Test Fun Game.<br/>
+Puzzle Game Application is a simple Soft Skill Test Fun Game.<br/>
 It is like a treasure hunt game for assessing soft skills of a user.
 
 <hr>
@@ -67,7 +67,7 @@ It is based on number of hints used<br />
 - **Perseverance & Curiosity**: <br/>
   If an user completes all the tasks, then 100%.<br />
 - **Eye for Detail & Problem Solving**: <br />
-  1. if number of hints used > 2, then 60% <br />
+  1. if number of hints used >= 2, then 60% <br />
   2. if number of hints used == 1, then 80% <br />
   3. if number of hints used == 0, then 100% <br />
 
