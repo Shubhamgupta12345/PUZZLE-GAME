@@ -1,6 +1,6 @@
-<h1 align="center"> PUZZLE APPLICATION </h1> <br>
+<h1 align="center"> PUZZLE APPLICATION BY SHUBHAM GUPTA </h1> <br>
 
-<h2 align="center">Check Your Soft Skills!!
+<h2 align="center">Please Check Your Soft Skills!!
 
 [Visit Website](https://puzzle-application-game.netlify.app/)
 </h2>
@@ -11,7 +11,7 @@
 
 # Important
 
-    Please wait for around 1 minute after clicking on login or signup button.
+    Please wait for around 30 seconds  after clicking on login or signup button.
 
 ## Technologies
 
